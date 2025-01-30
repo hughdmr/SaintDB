@@ -1,0 +1,30 @@
+{
+  "description_historique":
+    {
+    "Saint": "string",
+    "Prénom de naissance": "string",
+    "Nom de naissance": "string",
+    "Date de naissance": "timestamp",
+    "Date de décès": "timestamp",
+    "Jour de fête": "string",
+    "Date de canonisation": "timestamp",
+    "Date de béatification": "timestamp",
+    "Métier": "string",
+    "Ville de naissance": "string",
+    "Pays de naissance": "string",
+    "Ville de décès": "string",
+    "Pays de décès": "string",
+    "Classe sociale famille": ["pauvre", "ouvriere", "moyenne", "bourgeoise", "aristocrate"],
+    "Habitation famille": ["ville", "montagne", "campagne"],
+    "Études": "string",
+    "Page Wikipedia": "url"
+    },
+  "description_theologique":
+    {
+    "Vertu": ["justice", "prudence", "courage", "temperence", "foi", "esperance", "charite"],
+    "Péché": ["orgueil", "gourmandise", "paresse", "luxure", "avarice", "colere", "envie"],
+    "Don": ["force", "sagesse", "discernement", "conseil", "connaissance", "piete", "crainte_du_seigneur"],
+    "Fruit": ["amour", "joie", "paix", "patience", "bonté", "bienveillance", "foi", "douceur", "maitrise_de_soi"],
+    "Charisme": ["parole_de_sagesse", "parole_de_connaissance", "foi", "dons_de_guerison", "miracles", "prophétie", "discernement_des_esprits", "langues", "interpretation_de_langues"]
+    } 
+}
